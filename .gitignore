@@ -1,0 +1,11 @@
+# NPM závislosti (Tohle nesmí na GitHub)
+node_modules/
+
+# Cypress videa a screenshoty (Zbytečně by to zabíralo místo)
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
